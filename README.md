@@ -3,15 +3,6 @@
 
 Welcome to my portfolio GitHub repository! This project showcases my personal portfolio website, where I share my work, projects, and experiences.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
