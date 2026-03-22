@@ -1,6 +1,5 @@
 # My Portfolio
 
-<img src="images/Banner.jpg" alt="Mohit Maurya's Banner">
 
 Welcome to my portfolio GitHub repository! This project showcases my personal portfolio website, where I share my work, projects, and experiences.
 
@@ -42,7 +41,7 @@ I welcome contributions and feedback to improve my portfolio website. Feel free 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+## Copyright 
 
 If you have any questions or would like to connect with me, feel free to reach out:
 
